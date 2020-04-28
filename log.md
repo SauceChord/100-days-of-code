@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 28, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: TL;DR: Learning Python Basics. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Been following [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) this morning, struggled a bit with lint errors in the code. I felt that I needed to understand the Python language better so I went to [The Python Tutorial](https://docs.python.org/3/tutorial/). Even this felt a bit annoying to me since I didn't grasp how to run python script files yet. Everything in the tutorial was done with the interpreter, which annoyed me since when I made a mistake I had to retype a bunch of lines of code. So I detoured and found a tutorial on how to simply run a .py file and found it was very easy. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+Finally I sat down and wrote a simple module sample so I got a hang of using "python -m moduleName" for importing classes and running initialization and/or main code. Surprisingly simple. Today has been **much more** of learning than actually writing code.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:** It feels like a lot of work to get things sorted with #100DaysOfCode considering I haven't used tools like git for a long time. Excited about learning Python. Feeling slightly daunted about gitignores and settings. Unsure about "proper" project setup.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Module Sample](https://github.com/SauceChord/learning-python/tree/master/Module%20Sample)
