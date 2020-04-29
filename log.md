@@ -20,5 +20,6 @@ Finally I sat down and wrote a simple module sample so I got a hang of using "py
 
 **Thoughts:** I feel like I still haven't found a good starting point for Python. The book seems to relate around data structures but I'd like a book that focuses more on Python, the language and modules that come with it. I want to learn more about how pip and venv works. Git usage is not daunting at this point. Today (at the point of writing) I muscled less reading, kind of feeling a little demotivated due to feeling unsure about the content I'm learning from.
 
-**Link to work:** [GPA Calculator](https://github.com/SauceChord/learning-python/blob/master/GPA/__main__.py)
-[Practice Python 1-6](https://github.com/SauceChord/learning-python/tree/master/practicepython)
+**Link to work:** 
+- [GPA Calculator](https://github.com/SauceChord/learning-python/blob/master/GPA/__main__.py)
+- [Practice Python Exercises 1-6](https://github.com/SauceChord/learning-python/tree/master/practicepython)
