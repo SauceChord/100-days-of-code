@@ -23,3 +23,12 @@ Finally I sat down and wrote a simple module sample so I got a hang of using "py
 **Link to work:** 
 - [GPA Calculator](https://github.com/SauceChord/learning-python/blob/master/GPA/__main__.py)
 - [Practice Python Exercises 1-6](https://github.com/SauceChord/learning-python/tree/master/practicepython)
+
+### Day 2: April 30, 2020
+
+**Today's Progress**: Mostly reading the Data Structures and Algorithms in Python book (about 20 pages) and reworking the GPA calculator to use functions.
+
+**Thoughts:** Slow day, although I learned quite a bit from the book. Got distracted toward the half end of the day where I kept bouncing between playing games and browsing reddit.
+
+**Link to work:** 
+- [GPA Calculator](https://github.com/SauceChord/learning-python/blob/8c66c9c70b0efcd8e40bd4af78c8ce82844d7707/GPA/__main__.py)
