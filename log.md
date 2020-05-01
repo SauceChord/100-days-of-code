@@ -32,3 +32,12 @@ Finally I sat down and wrote a simple module sample so I got a hang of using "py
 
 **Link to work:** 
 - [GPA Calculator](https://github.com/SauceChord/learning-python/blob/8c66c9c70b0efcd8e40bd4af78c8ce82844d7707/GPA/__main__.py)
+
+### Day 3: May 1, 2020
+
+**Today's Progress**: Reading the Data Structures and Algorithms in Python book (about 20 pages) and doing a few of the exercises that came with it.
+
+**Thoughts:** This ain't bad. Wanted to code together with a friend who went missing.
+
+**Link to work:** 
+- [Book exercises](https://github.com/SauceChord/learning-python/tree/eef70d809a3ed82fc2c9e8ac64253d7e372b7440/book_exercises)
